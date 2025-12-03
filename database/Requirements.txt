@@ -1,0 +1,7 @@
+pyspark
+faker
+psycopg2-binary
+redis
+confluent-kafka
+python-dotenv
+requests
