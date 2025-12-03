@@ -1,3 +1,4 @@
+> Arabic README is available here: [README_ar.md](README_ar.md)
 # Thmanyah – Real-Time Engagement Pipeline  
 (Concept Data Engineering Project)
 
